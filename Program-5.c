@@ -17,6 +17,7 @@ int main()
   scanf("%s", s);
 
   while (s[c] != '\0') {
+    if(s[c]=='.')
                                //place logic to find the vowel
   }
 
